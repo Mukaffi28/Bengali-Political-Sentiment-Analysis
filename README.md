@@ -17,7 +17,7 @@
     
 ## Dataset Availability
 
-We called the dataset "Motamot" in Bengali (মতামত) and in English (Opinion). It was meticulously compiled from a range of online newspapers focusing on political events and conversations during Bangladeshi elections. Our data collection process involved scraping articles and opinion pieces from reputable news sources, ensuring a diverse and representative sample of political discourse. "Motamot" gives a broad look into the many opinions and conversations that shape Bangladesh's political environment.
+We called the dataset "Motamot" in Bengali (মতামত) and in English (Opinion). It was meticulously compiled from a range of online newspapers focusing on political events and conversations during Bangladeshi elections. Our data collection process involved scraping articles and opinion pieces from reputable news sources, ensuring a diverse and representative sample of political discourse. "Motamot" gives a broad look into the many opinions and conversations that shape Bangladesh's political environment. The dataset can be accessed from [here](https://data.mendeley.com/datasets/hdhnrrwdz2/1).
 
 ### Specifics of the Core Data:
 
@@ -45,7 +45,6 @@ We called the dataset "Motamot" in Bengali (মতামত) and in English (Opi
 |-----------|----------|----------|
 | **Count** | 413      | 292      |
 
-The dataset can be accessed from [here](https://data.mendeley.com/datasets/hdhnrrwdz2/1).
 
 
 
