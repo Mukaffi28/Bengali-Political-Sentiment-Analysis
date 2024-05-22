@@ -51,7 +51,7 @@ The dataset can be accessed from [here](https://data.mendeley.com/datasets/hdhnr
 
 
 ## Results
-### Comparative Analysis of PLMs for Different Performance Metrics
+### Comparative Analysis of Pre-trained Language Models for Different Performance Metrics
 
 | Model         | Accuracy | Precision | Recall  | F1-Score |
 |---------------|----------|-----------|---------|----------|
@@ -62,18 +62,7 @@ The dataset can be accessed from [here](https://data.mendeley.com/datasets/hdhnr
 | sahajBERT     | 0.6708   | 0.6791    | 0.6709  | 0.6707   |
 
 
-### Performance Metrics Comparison of Various Pre-trained Language Models Across Different Evaluation Criteria
-
-| Model           | Accuracy | Precision | Recall | F1-Score |
-|-----------------|----------|-----------|--------|----------|
-| **BanglaBERT**  | **0.8810** | **0.8765** | **0.8799** | **0.8780** |
-| Bangla BERT Base| 0.8300   | 0.8251    | 0.8324 | 0.8272   |
-| XLM-RoBERTa     | 0.8753   | 0.8718    | 0.8711 | 0.8715   |
-| mBERT           | 0.8016   | 0.7983    | 0.7898 | 0.7930   |
-| sahajBERT       | 0.8470   | 0.8479    | 0.8350 | 0.8397   |
-
-
-### Comparative Analysis of LLMs for Different Performance Metrics
+### Comparative Analysis of Large  Language Models for Different Performance Metrics
 
 | LLMs   | Metric    | Zero-shot | 5-shot | 10-shot | 15-shot |
 |--------|-----------|-----------|--------|---------|---------|
