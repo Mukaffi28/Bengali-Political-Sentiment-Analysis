@@ -88,10 +88,13 @@ For any questions, collaboration opportunities, or further inquiries, please fee
 - **Mukaffi Bin Moin**
   - Email: [mukaffi28@gmail.com](mailto:mukaffi28@gmail.com)
 
-- **Pronay Debnath**
-  - Email: [pronaydebnath99@gmail.com](mailto:pronaydebnath99@gmail.com)
-- **Asif Iftekher Fahim**
-  - Email: [fahimthescientist@gmail.com](mailto:fahimthescientist@gmail.com)
+- **Rabeya Islam Mumu**
+  - Email: [rabeya.islammomo@gmail.com](mailto:rabeya.islammomo@gmail.com)
+    
+- **Md Mahabubul Alam Abir**
+  - Email: [mahbubabir09@gmail.com](mailto:mahbubabir09@gmail.com)
+- **Abrar Nawar Alfy**
+  - Email: [abraralfy49@gmail.com](mailto:abraralfy49@gmail.com)
     
 ## Citation
 
