@@ -12,7 +12,7 @@
 
 
 ## Proposed Methodology
-![Methodology](NLI_with_page-0001.jpg)
+![Methodology](political_diagram.jpg)
 
     
 ## Dataset Availability
