@@ -100,13 +100,14 @@ For any questions, collaboration opportunities, or further inquiries, please fee
 <!--If you find the dataset or the associated research work helpful, please consider citing our paper: -->
 
 ```bibtex
-@misc{faria2024unraveling,
-      title={Unraveling the Dominance of Large Language Models Over Transformer Models for Bangla Natural Language Inference: A Comprehensive Study}, 
-      author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Asif Iftekher Fahim and Pronay Debnath and Faisal Muhammad Shah},
+@misc{faria2024motamotdatasetrevealingsupremacy,
+      title={Motamot: A Dataset for Revealing the Supremacy of Large Language Models over Transformer Models in Bengali Political Sentiment Analysis}, 
+      author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Rabeya Islam Mumu and Md Mahabubul Alam Abir and Abrar Nawar Alfy and Mohammad Shafiul Alam},
       year={2024},
-      eprint={2405.02937},
+      eprint={2407.19528},
       archivePrefix={arXiv},
-      primaryClass={cs.CL}
-} 
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.19528}, 
+}
 
 
